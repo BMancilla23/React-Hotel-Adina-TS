@@ -1,12 +1,6 @@
-# React - Template - Typescript
+# React - Hote - Starter - TS
 
 ---
-
-## Instalación de plugins y paquetes necesarios
-
-```cmd
-pnpm add --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-prettier eslint-config-prettier
-```
 
 ## Conventional Commits
 
