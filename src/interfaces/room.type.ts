@@ -6,7 +6,7 @@ export interface Facility {
   icon: ReactElement;
 }
 
-export interface Room {
+export interface RoomType {
   id: number;
   name: string;
   description: string;
