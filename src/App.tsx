@@ -1,3 +1,13 @@
+import { Footer } from "./common/footer/Footer";
+import { Header } from "./common/header/Header";
+import { AppRouter } from "./router/AppRouter";
+
 export const App = () => {
-	return <div>App</div>;
+	return (
+		<>
+			<Header></Header>
+			<AppRouter />
+			<Footer></Footer>
+		</>
+	)
 };
