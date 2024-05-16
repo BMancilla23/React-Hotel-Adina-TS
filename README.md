@@ -1,4 +1,4 @@
-# React - Hote - Starter - TS
+# React - Hotel - Adina - TS
 
 ---
 
