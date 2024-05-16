@@ -21,13 +21,16 @@
     "noFallthroughCasesInSwitch": true,
     "baseUrl": "./src",
     "paths": {
-      "@components/*": ["./components/*"],
-      "@ui/*": ["./components/common/ui/*"],
-      "@pages/*": ["./pages/*"],
-      "@hooks/*": ["./hooks/*"],
-      "@api/*": ["./api/*"],
-      "@utils/*": ["./utils/*"],
-      "@types/": ["./types/*"]
+      "@redux/*": ["redux/*"],
+      "@context/*": ["context/*"],
+      "@/*": ["*"],
+      "@components/*": ["components/*"],
+      "@ui/*": ["components/common/ui/*"],
+      "@pages/*": ["pages/*"],
+      "@hooks/*": ["hooks/*"],
+      "@api/*": ["api/*"],
+      "@utils/*": ["utils/*"],
+      "@types/*": ["@types/*"]
     }
   },
   "include": ["src"],
